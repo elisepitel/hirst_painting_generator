@@ -16,7 +16,7 @@ franklin.speed(9)
 franklin.penup()
 
 
-### Uncomment following code to create list of colors, extracting colors from image.jpg:
+### Uncomment following code and "import colorgram" to create list of colors, extracting colors from image.jpg:
 #colors = colorgram.extract('image.jpg', 16)
 #colors_list = []
 #for color in colors:
