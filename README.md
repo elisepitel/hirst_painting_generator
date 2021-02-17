@@ -9,9 +9,7 @@
 
 Example of Hirst Spot Paintings: 
 
-
 ![Spot Painting](https://github.com/elisepitel/hirst_painting_generator/blob/main/spot_painting.jpg)
-
 
 ![Spot Painting](https://github.com/elisepitel/hirst_painting_generator/blob/main/spot_painting_1.jpg)
 
