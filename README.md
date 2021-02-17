@@ -16,5 +16,5 @@ Example of Hirst Spot Paintings:
 
 ## Let's generate spot painting with Python as asistant !
 
-- Using Colorgram Python's library to extract colors from one image of Hirst Spot Painting and create a list of colors.
+- Using [Colorgram Python's library](https://pypi.org/project/colorgram.py/) to extract colors from one image of Hirst Spot Painting and create a list of colors.
 - Using Turtle and Random Python's libraries to generate regular points of random colors. 
