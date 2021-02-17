@@ -1,4 +1,4 @@
-# hirst_painting_generator
+# Hirst Spot Painting Python Generator
 Generate random dots Hirst's painting
 
 
