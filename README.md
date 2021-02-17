@@ -4,7 +4,7 @@
 
 
 [Wikipedia](https://en.wikipedia.org/wiki/Damien_Hirst):
-"Damien Hirst is an English artist. 
+"Damien Hirst is an English artist. (...)
 "Spot paintings" are rows of randomly coloured circles created by his assistants. (...) **Hirst sees the real creative act as being the conception, not the execution, and that, as the progenitor of the idea, he is therefore the artist.**"
 
 Examples of Hirst Spot Paintings: 
